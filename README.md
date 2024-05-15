@@ -1,5 +1,7 @@
 <h1>버티의 머지 베이커리, Berties merge bakery</h1>
-[![버티의 머지 베이커리 트레일러](https://play-lh.googleusercontent.com/ruCS5V7H481CvYYg1xmF4NWxxO_qMLngX9o4c785BANuN6w6wvDaVqRxo6mLtHCDIYA=w2560-h1440-rw)](https://www.youtube.com/watch?v=9SrUXS2dJRA)
+
+<img src="https://play-lh.googleusercontent.com/ruCS5V7H481CvYYg1xmF4NWxxO_qMLngX9o4c785BANuN6w6wvDaVqRxo6mLtHCDIYA=w2560-h1440-rw" alt="image" width="50%" height="auto">
+<p>
 <p>여러분과 Discord를 통해 대화하고 싶습니다.
 연락주세요~ 항상 기다리겠습니다.</p>
 <p><a href="https://discord.gg/DEHFZYYWV3">디스코드!</a></p>
